@@ -14,6 +14,7 @@ Install Anaconda: https://www.anaconda.com/download/
 
 As an existing or experienced Python user, you may wish to install Jupyter using Python’s package manager, pip, instead of Anaconda.
 
+If you do not have Python 3: https://www.python.org/downloads/windows/
 If you have Python 3 installed (which is recommended):
 
 ```
