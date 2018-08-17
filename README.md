@@ -10,3 +10,26 @@ While Jupyter runs code in many programming languages, Python is a requirement (
 
 Install Anaconda: https://www.anaconda.com/download/
 
+### Installing Jupyter with pip
+
+As an existing or experienced Python user, you may wish to install Jupyter using Python’s package manager, pip, instead of Anaconda.
+
+If you have Python 3 installed (which is recommended):
+
+```
+python3 -m pip install --upgrade pip
+python3 -m pip install jupyter
+```
+
+If you have Python 2 installed:
+
+```
+python -m pip install --upgrade pip
+python -m pip install jupyter
+```
+
+Congratulations, you have installed Jupyter Notebook! To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
+
+```
+jupyter notebook
+```
