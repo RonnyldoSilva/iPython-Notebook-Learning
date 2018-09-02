@@ -17,20 +17,20 @@ As an existing or experienced Python user, you may wish to install Jupyter using
 If you do not have Python 3: https://www.python.org/downloads/windows/
 If you have Python 3 installed (which is recommended):
 
-```
+```shell
 python3 -m pip install --upgrade pip
 python3 -m pip install jupyter
 ```
 
 If you have Python 2 installed:
 
-```
+```shell
 python -m pip install --upgrade pip
 python -m pip install jupyter
 ```
 
 Congratulations, you have installed Jupyter Notebook! To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
 
-```
+```shell
 jupyter notebook
 ```
